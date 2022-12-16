@@ -11,7 +11,7 @@ This repository requires [MATLAB](https://www.mathworks.com/products/matlab.html
 
 The files are organized in the following folders:
 * [itr_r_p_series](./itu_r_p_series): ITU-R P. recomendation implementation.
-    * [data] (./itu_r_p_series/data): Recomendation data files.
+    * [data](./itu_r_p_series/data): Recomendation data files.
     * [examples](./itu_r_p_series/erxamples): ITU-R P. implementation examples.
 * [Others](./others): Others ....
 
